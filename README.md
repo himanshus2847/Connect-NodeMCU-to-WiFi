@@ -3,6 +3,8 @@ This github includes the complete code to connect the NodeMCU ESP8266 Board to a
 
 Below are some commands and there explanation in order to understand the code.
 
+_______________________________________________________________________________
+
 #include <ESP8266WiFi.h>      //Library
 _______________________________________________________________________________
 
@@ -18,5 +20,6 @@ WiFi.status() values can be:
 2) WL_IDLE_STATUS
 
 3) WL_CONNECT_FAILED		
+_______________________________________________________________________________
 	
 To know more about this you can watch this video: https://youtu.be/uwjWyMFwvQw
